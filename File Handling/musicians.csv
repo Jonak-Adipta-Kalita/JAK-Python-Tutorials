@@ -1,0 +1,118 @@
+name,email,dob,is_guitarist,guitar_brand
+
+Suzuka,suzuka@babymetal.com,1997-12-20,False,
+
+Moa,moa@babymetal.com,1999-07-04,False,
+
+Yui,yui@babymetal.com,1999-06-20,False,
+
+Momoko,momoko@babymetal.com,2003-03-04,False,
+
+Takayoshi Ohmura,ohmura@kamiband.babymetal.com,1983-12-26,True,ESP
+
+Leda,leda@kamiband.babymetal.com,1987-06-09,True,ESP
+
+Mikio Fujioka,mikio@kamiband.babymetal.com,1981-01-19,True,Gibson
+
+Isao,isao@kamiband.babymetal.com,1982-09-10,True,Ibanez
+
+Hazuki,hazuki@nemophila.com,1995-11-16,True,Ibanez
+
+Saki,saki@nemophila.com,1991-10-04,True,ESP
+
+Haraguchi-san,haraguchi@nemophila.com,1992-06-29,False,
+
+Tamu,tamu@nemophila.com,1998-04-18,False,
+
+Mayu,mayu@nemophila.com,1999-04-23,False,
+
+Li-sa-X,lisa-x@koiai.com,2005-02-07,True,Ibanez
+
+Saiki,saiki@bandmaid.com,1994-02-08,False,
+
+Kanami,kanami@bandmaid.com,1992-09-28,True,PRS
+
+Miku,miku@bandmaid.com,1994-10-21,True,Fender
+
+Asami,asami@lovebites.com,1989-10-29,False,
+
+Midori,midori@lovebites.com,1992-07-12,True,ESP
+
+Miyako,miyako@lovebites.com,1990-04-05,True,Gibson
+
+Yukina,yukina@hanabie.com,1999-09-04,False,
+
+Matsuri,matsuri@hanabie.com,2000-03-24,True,ESP
+
+Tim Henson,tim@polyphia.com,1993-11-19,True,Ibanez
+
+Scott LePage,scott@polyphia.com,1993-05-09,True,Ibanez
+
+Clay Gober,clay@polyphia.com,1994-03-09,False,
+
+Clay Aeschliman,aeschliman@polyphia.com,1993-06-23,False,
+
+Misha Mansoor,misha@periphery.com,1984-10-27,True,Jackson
+
+Mark Holcomb,mark@periphery.com,1987-10-21,True,PRS
+
+Jake Bowen,jake@periphery.com,1989-09-30,True,Ibanez
+
+Spencer Sotelo,spencer@periphery.com,1987-02-22,False,
+
+Matt Halpern,matt@periphery.com,1983-06-21,False,
+
+Alex Terrible,alex@slaughtertoprevail.com,1991-06-25,False,
+
+Jack Simmons,jack@slaughtertoprevail.com,1992-02-14,True,ESP
+
+Will Ramos,will@lornashore.com,1994-12-31,False,
+
+Adam De Micco,adam@lornashore.com,1990-10-16,True,Jackson
+
+Yvette Young,yvette@covet.com,1991-06-28,True,Ibanez
+
+David Adamiak,david@covet.com,1991-04-11,False,
+
+Hayley Williams,hayley@paramore.com,1988-12-27,False,
+
+Taylor York,taylor@paramore.com,1989-12-17,True,Fender
+
+Zac Farro,zac@paramore.com,1990-06-04,False,
+
+Josh Farro,josh@paramore.com,1987-09-29,True,Gibson
+
+Joe Duplantier,joe@gojira.com,1976-10-19,True,Jackson
+
+Christian Andreu,christian@gojira.com,1976-11-15,True,Jackson
+
+Jean-Michel Labadie,jeanmichel@gojira.com,1974-07-14,False,
+
+Mario Duplantier,mario@gojira.com,1981-06-19,False,
+
+James Hetfield,james@metallica.com,1963-08-03,True,Gibson
+
+Kirk Hammett,kirk@metallica.com,1962-11-18,True,ESP
+
+Robert Trujillo,robert@metallica.com,1964-10-23,False,
+
+Lars Ulrich,lars@metallica.com,1963-12-26,False,
+
+Dave Mustaine,dave@megadeth.com,1961-09-13,True,Jackson
+
+Kiko Loureiro,kiko@megadeth.com,1972-06-16,True,Ibanez
+
+James LoMenzo,james@megadeth.com,1959-01-13,False,
+
+Dirk Verbeuren,dirk@megadeth.com,1975-01-08,False,
+
+Plini,plini@plini.com,1992-07-22,True,PRS
+
+Bernth,bernth@bernth.at,1991-08-14,True,Ibanez
+
+Guthrie Govan,guthrie@aristocrats.com,1971-12-27,True,PRS
+
+Sophie Burrell,sophie@skylimit.com,2000-03-13,True,PRS
+
+Steve Vai,steve@stevevai.com,1960-06-06,True,Ibanez
+
