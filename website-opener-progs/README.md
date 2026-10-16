@@ -1,0 +1,1 @@
+- I was a kid ok? I just wanted to write small scripts ;-;
