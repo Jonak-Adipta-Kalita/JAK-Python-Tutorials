@@ -28,14 +28,14 @@ a = np.array([[1, 2, 3], [4, 5, 6], [7, 8, 9], [10, 11, 12]])
 
 print(a.shape)
 
-print("\nreshaping to (3, 4):")
+print("\nReshaping to (3, 4):")
 # use arr.reshape(), which returns the reshaped array
 print(a.reshape(3, 4))
 # or, you can use arr.resize(), which changes original array
 a.resize(4, 3)
 print(a)
 
-print("\nflattening")
+print("\nFlattening")
 # use arr.flatten() or arr.ravel(), but ravel returns a pointered object to the original array, so any changes to the new variable reflects onto the original
 print(a.ravel())
 print(a.flatten())
@@ -44,3 +44,8 @@ print("\nTransposing")
 # use arr.T or arr.transpose()
 print(a.T)
 print(a.transpose())
+
+print("\nMatrix Multiplication")
+arr1 = np.array([[1, 2, 3], [4, 5, 6]])
+arr2 = np.array([[7, 8], [9, 10], [11, 12]])
+print(arr1 @ arr2)
